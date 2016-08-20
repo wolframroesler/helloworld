@@ -1,0 +1,6 @@
+; Hello World in PureBasic (console program)
+
+OpenConsole()
+   ConsoleTitle ("Hello World!")
+   PrintN ("Hello World!")
+CloseConsole()

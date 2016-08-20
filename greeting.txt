@@ -1,0 +1,71 @@
+Unicode-to-HTML converter: http://unicode.online-toolz.com/tools/unicode-html-entities-convertor.php
+
+
+
+Thanks a lot (and sorry for the very late reply), I'll include it in the next version of the Collection, which will be online soon after you receive this mail.
+
+Best regards
+Wolfram
+
+
+
+Thanks, but what is the comment character? I like the programs to start with a comment in the respective language.
+
+Best regards
+Wolfram
+
+
+
+
+
+That's great, but do you happen to have a Unicode representation?
+Like the Greek entry, for instance, which in my HTML source
+looks like this:
+
+   <tr><td>Greek</td>
+   <td>&#915;&#949;&#953;&#945; &#963;&#959;&#965;&#954;
+   &#972;&#963;&#956;&#949;!
+   <i>(Geia soy kosme)</i></td>
+
+I'm keeping the list in ASCII files and I'm afraid those special
+characters aren't going to survive copy-and-paste into my text
+editor.
+
+If you don't, never mind, I'll use a GIF then (like in the Japanese
+entry, for instance).
+
+
+
+
+Thanks a lot, but there are enough XML variations in the
+Collection already, and these are actually file formats,
+not full-featured (Turing-complete) programming languages,
+so I decided not to include any more of them in the
+Collection.
+
+Thanks anyway
+Wolfram
+
+
+
+
+Hello,
+
+is this really a real (Turing-complete) programming language,
+or merely a ... without real
+programming capabilities (variables, conditionals, loops
+etc.)?
+In order to keep the Collection from getting bloated, I decided
+to limit future entries to real programming languages only.
+
+Thanks and best regards
+Wolfram
+
+
+
+Hello,
+
+Is this a widely used/known programming language, or simply a private/academic project mostly unknown outside of its creators' community? To keep the Collection from getting bloated I decided to include only languages that have gained some kind of popularity. For example, yours doesn't seem to have a Wikipedia  article on it.
+
+Thanks and best regards
+Wolfram

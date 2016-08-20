@@ -1,0 +1,6 @@
+Hello World as a regular expression.
+Replaces everything with "Hello World".
+For use with vi, sed, etc.
+
+Search String :  ^.*$
+Replace String: 'Hello World'

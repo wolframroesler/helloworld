@@ -1,0 +1,5 @@
+' Hello World in Visual Basic 6
+
+Private Sub Form_Load()
+Print "Hello World"
+End Sub

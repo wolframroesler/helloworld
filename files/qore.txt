@@ -1,0 +1,16 @@
+#!/usr/local/bin/qore
+# Hello World in qore
+
+class HelloWorld
+{
+    constructor()
+    {
+	background $.output("Hello, world!");
+    }
+    output($arg)
+    {
+	printf("%s\n", $arg);
+    }
+}
+
+new HelloWorld();

@@ -1,0 +1,7 @@
+' Hello World in Powerbasic Console Compiler
+
+FUNCTION PBMAIN () AS LONG
+
+    PRINT "Hello World"
+
+END FUNCTION

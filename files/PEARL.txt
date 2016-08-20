@@ -1,0 +1,16 @@
+MODULE (HELLO);
+/* Hello World in PEARL (Process and Experiment Automation Realtime Language) */
+  SYSTEM;
+   TERMINAL:DIS<->SDVLS(2);
+  PROBLEM;
+   SPC TERMINAL DATION INOUT
+         ALPHIC DIM(,) TFU MAX
+         FORWARD CONTROL (ALL);
+   MAIN:TASK;
+     DCL TEXT INV CHAR(30)
+          INIT('HELLO WORLD!');
+    OPEN TERMINAL;
+    PUT TEXT TO TERMINAL;
+    CLOSE TERMINAL;
+   END;
+MODEND;

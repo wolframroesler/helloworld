@@ -1,0 +1,64 @@
+The Hello World Collection
+
+Compiled by Wolfram Roesler (wr@bara.oche.de)
+
+Last update: April 7th, 1996
+
+Programs contributed by:
+
+	Wolfram Roesler @AC2		C, Modula-2, Basic, Unix shell, Tcl,
+					Tk, GEM, Curses, Texinfo
+	Reinhard Hamann @ S2		Forth, Prolog, Lisp,
+					68000 Assembler (Atari)
+	Malte Schiphorst @ HH2		Pascal
+	Stefan Radermacher @ K		TeX
+	Marcus Schmidke @ K2		Occam, MSDOS batch, Intel Assembler,
+					6502 Assembler
+	Ralf Lenz @ F			Fortran IV, VMS
+	Marc Van-Woerkom @ AC		C++
+	Thomas Menschel @ B		68008 Assembler
+	Heribert Otten @ K2		Cobol, PL/1, JCL
+	Thomas Piske @ HH		BS2000 batch
+	Thomas Preymesser @ N		Ada, pocket calculator
+	Adrian Nye & Tim O'Reilly	X11-Athena
+	Udo Halfmann @ K2		ELAN
+	Stefan Llabres @ OG		Postscript
+	Volker Wurst @ S3		Smalltalk
+	Dirk Theisen @ SU		Oberon (standard OS)
+	Georg Bauer @ MS3		Rexx (simple version), Erlang, SML,
+					Snobol, Setl2, CAML light, Euphoria
+	Michael Glaesner @ F		Perl, awk
+	Christian Rosner @ WI		Eiffel
+	Markus Omers @ DU2		Presentation Manager
+	Thomas Dorner @ F		SPL
+	Jochen Kunz @ SB		Rexx (window version), HP-48
+	Sascha Bendinger @ LU		Dylan
+	Steffen Pohlen @ AC3		Visual Basic, Gofer (dialog)
+	Andreas Dierks @ OL2		Algol-60, Algol-68, Fortran, Fortran-77,
+					dBase IV, Logo
+	Klaus Mueller @ F		TSO CLIST, OPL
+	Jens Kilian @ BB		Intercal, Self
+	Martin Uebing @ DO		Intuition
+	Andreas Maeder @ WUE		Borland Pascal 7
+	Stefan Brozinski @ HB2		Windows, HP-41C
+	Jens Schaefers @ DO		Beta
+	Wolfgang Houben <castor@newswire.gun.de>
+					PDP-11 Assembler
+	Pascal Costanza @ K2		Oberon (Oberon OS)
+	Martin Oefelein @ M		Sather, GynkoSoft
+	Ralf Unland <Ralf.Unland@LFS-Vechta.nsn.ni.schule.de>
+					TI-59
+	Stefan Rupp @ AC2		Java
+	Werner Huber @ A-L		Informix 4GL
+	Lutz Heitmann @ KI		Turing machine
+	Federico Hernandez-Püschel @ OF2 HTML
+	Thomas Lattner @ BB2		OZ
+	Gunter Baumann @ S		NewtonScript
+	Torsten Landschoff @ IZ		ST-Guide
+	Florian Erhard @ M2		Gofer (simple)
+	Niels 'Frolic' Froehling <Seal@CHATLINE.MCNET.DE>
+					68000 Assembler (Amiga)
+	Michael Sievert @ UN		Rexx
+
+
+Please send all contributions to wr@bara.oche.de.

@@ -1,0 +1,7 @@
+;;; Hello World in POP-11
+
+: vars outputtext;
+: "Hello World" -> outputtext;
+: outputtext =>
+
+** Hello World

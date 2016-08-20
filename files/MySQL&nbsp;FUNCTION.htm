@@ -1,0 +1,11 @@
+<pre>-- Hello world in <a href="http://dev.mysql.com/doc/refman/5.0/en/create-procedure.html" target="_top">MySQL FUNCTION</a>
+
+DELIMITER $$
+CREATE FUNCTION hello_world() RETURNS TEXT COMMENT 'Hello World'
+BEGIN
+  RETURN 'Hello World';
+END;
+$$
+DELIMITER ;
+ 
+SELECT hello_world();</pre>

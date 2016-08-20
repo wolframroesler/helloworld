@@ -1,0 +1,3 @@
+# Hello World for AviSynth video editor
+BlankClip()
+Subtitle("Hello, world!")

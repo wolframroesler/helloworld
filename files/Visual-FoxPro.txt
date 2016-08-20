@@ -1,0 +1,2 @@
+*Hello World in Microsoft Visual FoxPro 5-9
+? "Hello World!"

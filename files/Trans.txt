@@ -1,0 +1,3 @@
+// Hello World in Trans (Transmuter Programming Language)
+import Console
+Console.write("Hello World!")

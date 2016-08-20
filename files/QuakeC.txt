@@ -1,0 +1,4 @@
+// Hello World in QuakeC. This should be put somewhere, for instance
+// PutClientInServer() in Client.qc.
+
+bprint("Hello World\n");

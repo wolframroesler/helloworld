@@ -1,0 +1,3 @@
+// Hello World in 1C:Enterprise built-in script language
+
+Message("Hello, World!");

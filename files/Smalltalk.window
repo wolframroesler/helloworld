@@ -1,0 +1,20 @@
+"Hello World in Smalltalk (in an own window)"
+"(to be entered in a special browser)"
+
+VisualComponent subclass: #HelloWorldView
+	instanceVariableNames: ''
+	classVariableNames: ''
+	poolDictionaries: ''
+	category: 'test'
+
+displayOn: aGraphicsContext
+
+	'Hello World!' asComposedText displayOn: aGraphicsContext.
+
+open
+
+	|window|
+	window := ScheduledWindow new.
+	window label: 'Hello World Demo:'.
+	window component: self new.
+	window open.

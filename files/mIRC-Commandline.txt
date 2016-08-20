@@ -1,0 +1,3 @@
+; Hello World! for mIRC (command line version)
+
+echo Hello World!

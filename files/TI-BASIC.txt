@@ -1,0 +1,5 @@
+10 REM Hello World in TI BASIC
+20 REM for the TI99 series computer
+100 CALL CLEAR
+110 PRINT "HELLO WORLD"
+120 GOTO 120

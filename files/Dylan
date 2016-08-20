@@ -1,0 +1,12 @@
+module:			hello-world
+author:			Homer
+copyright:		(c) 1994 Homer
+version:		1.0
+
+// Hello World in DYLAN
+
+define method main (#rest args)
+  princ("Hello world!");
+end;
+
+main();

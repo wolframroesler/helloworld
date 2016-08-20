@@ -1,0 +1,3 @@
+Hello World in HQ9+ and HQ9++. No comment character exists.
+
+H

@@ -1,0 +1,4 @@
+* SPSS Syntax
+* "Hello World" title in the Output Window of SPSS via SPSS Syntax.
+
+TITLE 'Hello World'.

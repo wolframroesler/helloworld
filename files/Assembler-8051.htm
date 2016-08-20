@@ -1,0 +1,20 @@
+<pre>-- Hello World in Assembler for the <a target="_top" href="http://en.wikipedia.org/wiki/Intel_8051">Intel 8051</a> (MSC51)
+
+ Org 0
+ 
+   mov dptr,#msg
+   mov R0,#30h  
+loop:
+   clr a
+   movc a,@a+dptr
+   jz end
+   mov @R0,a
+   inc R0
+   inc dptr
+   sjmp  loop
+ 
+end:
+    jmp $
+ 
+msg:
+    db 'Hello World",0</pre>

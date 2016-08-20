@@ -1,0 +1,4 @@
+!Hello World in TECO
+!The $ symbol below wouldn't actually be a printing character -
+!it's the [escape] character, \u001b!
+FTHello World$

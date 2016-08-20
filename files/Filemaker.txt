@@ -1,0 +1,2 @@
+#Hello World in Filemaker Script
+Show Custom Dialog ["Hello World" ; "Hello World"]

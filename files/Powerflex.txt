@@ -1,0 +1,4 @@
+// "Hello World" in PowerFlex
+
+showln "Hello World"
+system

@@ -1,0 +1,5 @@
+;Hello World for mIRC script
+
+alias helloworld {
+  /echo -a Hello World!
+}

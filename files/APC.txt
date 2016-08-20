@@ -1,0 +1,6 @@
+// Hello World in the APC language for probes
+
+probe program
+{
+    on_entry log ("Hello, world!\n");
+}

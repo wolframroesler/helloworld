@@ -1,0 +1,2 @@
+-- Hello World in SQL for DB2
+VALUES('hello world')

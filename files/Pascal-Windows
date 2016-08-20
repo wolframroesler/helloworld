@@ -1,0 +1,13 @@
+{ Hello World in Borland Pascal 7 for MS-Windows}
+
+PROGRAM HelloWorld;
+
+USES
+  WinCRT;
+
+BEGIN
+  InitWinCRT;
+  WriteLn('Hello World!');
+  ReadLn;
+  DoneWinCRT;
+END.

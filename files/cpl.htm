@@ -1,0 +1,18 @@
+<pre>title 'Hello world in cpl on a <a href="https://books.google.de/books?id=OohpOVF5L-IC&amp;pg=PA24&amp;lpg=PA24&amp;dq=warrex+centurion" target="_blank">Warrex Centurion</a>'
+system zhelloworld      (main,exp=d)
+;
+file crt:sysipt,class=0,seq
+;
+define m00:'hello world'
+format f00:c132
+;
+entrypoint crt
+;
+entry
+;
+open io crt
+;
+write (crt, f00) m00
+stop 0
+;
+end</pre>

@@ -1,0 +1,3 @@
+-- Hello World in Oracle SQL*Plus
+
+prompt Hello World!

@@ -1,0 +1,3 @@
+; Hello World in PureBasic (message box)
+
+MessageRequester("Hello World Messagebox","Hello World!")
