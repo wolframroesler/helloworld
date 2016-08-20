@@ -1,0 +1,36 @@
+<pre>| Hello world in <a href="http://analysisdesignmatrix.com/ADM0002-0000-0000-0000-MatrixLanguage.html">Matrix</a>
+ 
+System:Hello_World
+ 
+    Type
+        BaseType
+            String
+                Text : 12
+ 
+    Matrix:Model:Application
+        Silo:M1:Software_Application
+            Realm:Analysis_Of_Application
+                Domain:Friend
+                    Entity:Greeting
+                        State
+                            Dataset:Hail
+                                Text : Message
+                            DynamicDataState:Display:Hail
+                                StateAction
+                                    Template
+                                        &lt;&lt;|&gt;&gt;&lt;&lt;#Message&gt;&gt;
+                                        &lt;&lt;:&gt;&gt;
+                                Transition
+                                    EventState
+                                        Wave -&gt; Display
+ 
+        Silo:M0:Real_World_Objects
+            RealmObject:Objects_Of_Application
+                DomainObject:Friend
+                    EntityObject:Greeting
+                        Object
+                            | Identity | State
+                            ID001      : Display
+                        ObjectEvent
+                            | Identity | Event | Message
+                            ID001      : Wave  : "Hello World!"</pre>

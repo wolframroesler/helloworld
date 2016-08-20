@@ -24,6 +24,7 @@
 # 06.05.16: Endgültiger Link auf Freewear-Homepage
 # 08.05.16: Nur eine Datei, keine Frames mehr
 # 12.08.16: Sharing-Buttons erzeugt mit http://sharingbuttons.io statt Shariff
+# 20.08.16: Versionsverwaltung mit git eingeführt
 
 # Quellverzeichnis
 DROPBOX=~/Dropbox
