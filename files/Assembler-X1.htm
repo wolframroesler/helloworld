@@ -1,12 +1,12 @@
-<p>Hello world in Assembler for the <a href="https://en.wikipedia.org/wiki/Electrologica_X1" target="_blank">Electrologica X1</a> (ca. 1958). Comments are removed by the human who punches the source text.</p>
-<pre>
+<p>Hello world in Assembler for the <a href="https://en.wikipedia.org/wiki/Electrologica_X1" target="_blank">Electrologica X1</a> (ca. 1958). Line numbers and comments are removed by the human who punches the source text.</p>
+<pre> 
                   dp zz 0 x 5
 
                   da 0 zz 0   di
 	      0   2b 1       a		       set address increment to 1
-	 3->  1   2a 5 zz 0  c p	       load next character to A
+	 3-&gt;  1   2a 5 zz 0  c p	       load next character to A
 	      2   6y 2 xp    		       print it
-	      3 y 2t 1 zz 0		       loop if not last char
+	      3 y 2t 1 zz 0  a		       loop if not last char
 	      4   7p   	  		       and halt
 	      5 dn + 19			       lower case
 	      6	  + 28			       h
