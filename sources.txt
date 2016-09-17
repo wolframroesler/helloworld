@@ -12,6 +12,8 @@ http://ceylon-lang.org/documentation/tour/basics/
 Ceylon
 http://coconut-lang.org
 Coconut
+https://en.wikipedia.org/wiki/Hack_(programming_language)
+Hack
 https://github.com/somebee/hello-world-imba
 Imba
 http://kittenlang.org/tutorial/
