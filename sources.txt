@@ -44,3 +44,5 @@ https://en.wikipedia.org/wiki/Ubercode
 Ubercode
 http://ziglang.org
 Zig
+https://github.com/dimkr/szl
+szl
