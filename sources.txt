@@ -46,3 +46,5 @@ http://ziglang.org
 Zig
 https://github.com/dimkr/szl
 szl
+https://docs.oracle.com/cd/E36784_01/html/E36858/gmabk.html
+SPARC Assembly
