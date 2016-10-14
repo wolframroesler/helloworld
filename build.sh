@@ -174,11 +174,6 @@ Begin your contribution with a comment in the respective language.
 Click <a href="#links">here</a> for related links.<br>
 Click <a href="#history">here</a> for brief history of the Hello World Collection.<br>
 Support the <a href="https://edu.kde.org">KDE Education Project</a> with our exclusive <a href="https://www.freewear.org/?org=HelloWorld">Hello World merchandise</a> &mdash; T-shirts, mugs and more!</p>
-<p>By the way, this site is the original Hello World Collection.
-Throughout the Web, you can find many copies of various versions
-of this file, not all of which give proper credit to those who
-compiled and contributed to it over the years. The official address
-of the Hello World Collection is <a href="http://helloworldcollection.de">helloworldcollection.de</a>.</p>
 <p>Last update: `LANG=En_US date "+%b %d, %Y"`.</p>
 <div style="text-align:center">`cat fixed/sharingbuttons.htm`</div>
 <hr>
