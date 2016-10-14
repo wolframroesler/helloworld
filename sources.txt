@@ -32,6 +32,8 @@ https://nitlanguage.org
 Nit
 http://pharo.gforge.inria.fr/PBE1/PBE1ch2.html
 Pharo
+https://github.com/nasser/---
+Qalb
 http://www.itp.tuwien.ac.at/~oemer/doc/quprog.pdf
 QCL
 https://github.com/artagnon/rhine/blob/master/test/comments.rht
