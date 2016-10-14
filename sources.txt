@@ -36,8 +36,12 @@ https://github.com/nasser/---
 Qalb
 http://www.itp.tuwien.ac.at/~oemer/doc/quprog.pdf
 QCL
+https://en.wikipedia.org/wiki/Rapira
+Rapira
 https://github.com/artagnon/rhine/blob/master/test/comments.rht
 rhine
+https://en.wikipedia.org/wiki/SAKO_(programming_language)
+SAKO
 https://github.com/anthonyu/Sizzle/blob/master/examples/hello_world.szl
 Sawzall
 https://translate.google.de/
