@@ -32,19 +32,21 @@ http://www.itp.tuwien.ac.at/~oemer/doc/quprog.pdf
 QCL
 https://github.com/artagnon/rhine/blob/master/test/comments.rht
 rhine
+https://github.com/anthonyu/Sizzle/blob/master/examples/hello_world.szl
+Sawzall
 https://translate.google.de/
 Several human languages
 http://www.shenlanguage.org/learn-shen/io.html
 Shen
+https://docs.oracle.com/cd/E36784_01/html/E36858/gmabk.html
+SPARC Assembly
 http://sprylang.org/manual/index.html
 Spry
 http://wiki.squeak.org/squeak/3790
 Squeak
+https://github.com/dimkr/szl
+szl
 https://en.wikipedia.org/wiki/Ubercode
 Ubercode
 http://ziglang.org
 Zig
-https://github.com/dimkr/szl
-szl
-https://docs.oracle.com/cd/E36784_01/html/E36858/gmabk.html
-SPARC Assembly
