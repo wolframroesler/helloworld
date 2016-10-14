@@ -376,7 +376,6 @@ Marcio Automatiza: Assembler (8051)
 Robert Gosling: CICS COBOL
 Vijaye Raji: MS Small Basic
 Yoav Krauz: Byte Syze
-Ronan Moun&egrave;s: Linotte
 Martin Bishop: Modula-3
 Pawel Baszuro: Rey
 Brian Tiffin: Falcon

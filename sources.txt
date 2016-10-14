@@ -24,6 +24,8 @@ https://en.wikipedia.org/wiki/Kotlin_(programming_language)
 Kotlin
 https://github.com/jesserayadkins/lily
 Lily
+https://en.wikipedia.org/wiki/Linotte
+Linotte
 https://en.wikipedia.org/wiki/LLVM#LLVM_Intermediate_Representation
 LLVM
 https://nitlanguage.org
