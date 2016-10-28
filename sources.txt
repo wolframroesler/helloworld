@@ -62,3 +62,5 @@ https://en.wikipedia.org/wiki/Ubercode
 Ubercode
 http://ziglang.org
 Zig
+https://www.quorumlanguage.com
+Quorum
