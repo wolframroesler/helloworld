@@ -16,6 +16,8 @@ https://en.wikipedia.org/wiki/Ezhil_(programming_language)
 Ezhil
 https://en.wikipedia.org/wiki/Hack_(programming_language)
 Hack
+http://havelang.org
+Have
 https://github.com/somebee/hello-world-imba
 Imba
 http://kittenlang.org/tutorial/
@@ -38,6 +40,8 @@ https://github.com/nasser/---
 Qalb
 http://www.itp.tuwien.ac.at/~oemer/doc/quprog.pdf
 QCL
+https://www.quorumlanguage.com
+Quorum
 https://en.wikipedia.org/wiki/Rapira
 Rapira
 https://github.com/artagnon/rhine/blob/master/test/comments.rht
@@ -62,5 +66,3 @@ https://en.wikipedia.org/wiki/Ubercode
 Ubercode
 http://ziglang.org
 Zig
-https://www.quorumlanguage.com
-Quorum
