@@ -36,6 +36,8 @@ https://en.wikipedia.org/wiki/LLVM#LLVM_Intermediate_Representation
 LLVM
 https://nitlanguage.org
 Nit
+http://progopedia.com/example/hello-world/491/
+Picat
 http://pharo.gforge.inria.fr/PBE1/PBE1ch2.html
 Pharo
 https://github.com/nasser/---
