@@ -25,13 +25,21 @@
 # 08.05.16: Nur eine Datei, keine Frames mehr
 # 12.08.16: Sharing-Buttons erzeugt mit http://sharingbuttons.io statt Shariff
 # 20.08.16: Versionsverwaltung mit git eingeführt
+# 06.01.17: Angepasst an Ausgabedatei auf Github
 
 # Quellverzeichnis
 DROPBOX=~/Dropbox
-cd $DROPBOX/Privat/Wolfram/Homepage/src/helloworld || exit
+cd $DROPBOX/Privat/Wolfram/Homepage/helloworld/src || exit
+
+# Ausgabeverzeichnis. Dabei handelt es sich um das Verzeichnis mit dem geklonten
+# Github-Repository. Bespiel:
+#
+#	$ cd ~/Dropbox/Privat/Wolfram/Homepage/helloworld
+#	$ rm -fr dst
+#	$ git clone https://github.com/username/username.github.io dst
+OUTDIR=$DROPBOX/Privat/Wolfram/Homepage/helloworld/dst
 
 # Dateien
-OUTDIR=$DROPBOX/Privat/Wolfram/Homepage/helloworldsite
 OUT=$OUTDIR/index.htm
 TOC=/tmp/helloworld.toc.tmp
 IDX=/tmp/helloworld.idx.tmp
@@ -60,26 +68,27 @@ for i in $(ls files/* | sort -f);do
 
   if [ "$FIRST" != "$PREV" ];then
     # Neuer Buchstabe beginnt
-    echo -e "$FIRST \c" >&2
+    echo -n "$FIRST " >&2
     echo "<br><span class=\"cap\">$FIRST </span>"
     echo "<br><span class=\"cap\">$FIRST</span><br>" >>$TOC
 
     PREV=$FIRST
   fi
 
-  echo -e "<a href=\"#$ID\">\c"
+  echo -n "<a href=\"#$ID\">"
   grep -q $i <$NEW
   ISNEW=$?
-  ((ISNEW)) || echo -e "<b>\c"
-  echo -e "$ID\c"
-  ((ISNEW)) || echo -e "</b>\c"
-  echo "</a>&nbsp; "
+  ((ISNEW)) || echo -n "<b>"
+  echo -n "$ID"
+  ((ISNEW)) || echo -n "</b>"
+  echo "</a>&nbsp;"
 
   # Eintrag im Inhalts-Frame
   (
-    ((ISNEW)) || echo -e "<b>\c"
-    echo " <a href=\"#$ID\">$ID</a><br>"
-    ((ISNEW)) || echo -e "</b>\c"
+    ((ISNEW)) || echo -n "<b>"
+    echo -n "<a href=\"#$ID\">$ID</a><br>"
+    ((ISNEW)) || echo -n "</b>"
+	echo
   ) >>$TOC
 done >>$IDX
 echo >&2
@@ -103,7 +112,7 @@ cat >$OUT <<!
     font-family: 'Lucida Console',Menlo,monospaced;
     font-size: small;
     overflow-x: scroll;
-    }
+  }
   h1,h2 { color: #FFFDF9; background-color: #2E4973; padding: 2px; }
   a { color: #583904; }
   li { line-height: 1.5; }
@@ -152,10 +161,8 @@ where it read like this:</p>
 </p>
 <p>Since then, Hello World has been implemented in just about
 every programming language on the planet. This collection includes
-<b>`ls files|wc -l` Hello World programs</b> in as many more-or-less
-well known programming languages, plus  <b>
-`grep '<tr>' files/Human.htm | wc -l`
-<a href="#Human">human</a> languages</b>.</p>
+<b>`ls files | wc -l` Hello World programs</b> in as many more-or-less well known programming languages, plus
+<b>`grep '<tr>' files/Human.htm | wc -l` <a href="#Human">human</a> languages</b>.</p>
 <p>The programs in this collection are intended to be as minimal as
 possible in the respective language. They are meant to demonstrate
 how to output Hello World as simply as possible, not to show off
