@@ -268,7 +268,6 @@ Josef Betancourt: Powershell
 Dileep R: Malayalam
 Bruce V Chiarelli: Hmong
 JP Theberge: wml
-LECOUTRE Eric: SAS
 Jonathan Bergeron: Google Gadget
 Nicolaj Christensen: LOLCODE, VHDL
 J&uuml;rgen Jung: Visual Works Smalltalk
@@ -426,3 +425,4 @@ Bacco: Harbour
 Rolf Huisman: SPARC Assembly Language
 /u/farias0: Portugol
 Dave Kilroy: LiveCode
+Leon (Yinliang) Wu: SAS
