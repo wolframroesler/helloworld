@@ -2,6 +2,8 @@ http://zdoom.org/wiki/A_quick_beginner's_guide_to_ACS
 ACS
 http://wiki.portal.chalmers.se/agda/pmwiki.php?n=ReferenceManual2.Compilation
 Agda
+https://states-language.net/spec.html#example
+Amazon States Language
 http://www.andl.org/?s=hello+world
 Andl
 http://blogs.perl.org/users/zoffix_znet/2016/05/anguish-invisible-programming-language-and-invisible-data-theft.html

@@ -25,7 +25,7 @@
 # 08.05.16: Nur eine Datei, keine Frames mehr
 # 12.08.16: Sharing-Buttons erzeugt mit http://sharingbuttons.io statt Shariff
 # 20.08.16: Versionsverwaltung mit git eingeführt
-# 06.01.17: Angepasst an Ausgabedatei auf Github
+# 06.01.17: Angepasst an Hosting auf GitHub
 
 # Quellverzeichnis
 DROPBOX=~/Dropbox
