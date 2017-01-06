@@ -228,7 +228,6 @@ Glaucio Melo: Io
 Daniel Campos: Gambas
 Uwe Eichler: LIMS Basic
 Robert Follett: Microtik Router OS
-Chipp Walters: Revolution/Transcript
 Jacob Krebs: LS-DYNA
 Donna-n-Doug Finner: Lotus Note Formula Language
 Nils Rekow: Nullsoft Software Install Script (NSIS)
@@ -426,3 +425,4 @@ Lambert Meertens: ABC
 Bacco: Harbour
 Rolf Huisman: SPARC Assembly Language
 /u/farias0: Portugol
+Dave Kilroy: LiveCode

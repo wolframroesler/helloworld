@@ -1,2 +1,0 @@
--- Hello World in Revolution (formerly called Transcript)
-answer "Hello World!"
