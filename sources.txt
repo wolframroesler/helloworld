@@ -18,6 +18,8 @@ http://coconut-lang.org
 Coconut
 https://en.wikipedia.org/wiki/Ezhil_(programming_language)
 Ezhil
+http://play.witheve.com
+Eve
 https://en.wikipedia.org/wiki/Hack_(programming_language)
 Hack
 http://havelang.org
