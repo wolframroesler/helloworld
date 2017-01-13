@@ -161,7 +161,8 @@ where it read like this:</p>
 </p>
 <p>Since then, Hello World has been implemented in just about
 every programming language on the planet. This collection includes
-<b>`ls files | wc -l` Hello World programs</b> in as many more-or-less well known programming languages, plus
+<b>`ls files | wc -l` Hello World programs</b>
+in as many more-or-less well known programming languages, plus
 <b>`grep '<tr>' files/Human.htm | wc -l` <a href="#Human">human</a> languages</b>.</p>
 <p>The programs in this collection are intended to be as minimal as
 possible in the respective language. They are meant to demonstrate
