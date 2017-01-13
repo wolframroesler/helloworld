@@ -1,0 +1,16 @@
+<pre>// Hello world in <a href="http://chaiscript.com/">ChaiScript</a>
+
+#include <chaiscript/chaiscript.hpp>
+
+std::string helloWorld(const std::string &amp;t_name) {
+  return "Hello " + t_name + "!";
+}
+
+int main() {
+  chaiscript::ChaiScript chai;
+  chai.add(chaiscript::fun(&amp;helloWorld), "helloWorld");
+
+  chai.eval(R"(
+    puts(helloWorld("Bob"));
+  )");
+}</pre>

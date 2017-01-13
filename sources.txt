@@ -14,6 +14,8 @@ https://github.com/BYVoid/Batsh
 Batsh
 http://ceylon-lang.org/documentation/tour/basics/
 Ceylon
+http://chaiscript.com/examples.html#ChaiScript_Basic_Example
+ChaiScript
 http://coconut-lang.org
 Coconut
 https://en.wikipedia.org/wiki/Ezhil_(programming_language)
