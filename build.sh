@@ -288,12 +288,17 @@ echo
 echo "ENTER = online stellen, ^C = Abbruch"
 read
 
+# Online stellen auf GitHub
+(
+  # Änderungen anzeigen: :!git diff --cached
+  cd $OUTDIR && git add --all && git commit && git push
+)
+
+# Online stellen auf Dropbox
 ONLINE=$DROPBOX/Public/helloworld
 rm -fr $ONLINE.prev
 mv $ONLINE $ONLINE.prev
 cp -pr $OUTDIR $ONLINE
 
-echo -n "Fertig "
-sleep 3
-echo "und online!"
+# Ergebnis anzeigen
 open http://helloworldcollection.de
