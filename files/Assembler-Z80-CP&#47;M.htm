@@ -1,0 +1,12 @@
+<pre>; Hello world in <a href="https://en.wikipedia.org/wiki/Zilog_Z80">Z80</a> <a href="https://en.wikipedia.org/wiki/Assembly_language">Assembly</a> for <a href="https://en.wikipedia.org/wiki/CP/M">CP/M</a>
+
+BDOS    equ     05h
+WRTLINE equ     09h
+;
+        org     0100h
+        lxi     d,sHello
+        mvi     c,WRTLINE
+        call    BDOS
+        ret
+;
+sHello  db      'Hello, World!'</pre>
