@@ -26,6 +26,7 @@
 # 12.08.16: Sharing-Buttons erzeugt mit http://sharingbuttons.io statt Shariff
 # 20.08.16: Versionsverwaltung mit git eingeführt
 # 06.01.17: Angepasst an Hosting auf GitHub
+# 22.07.17: Flattr-Link eingefügt
 
 # Quellverzeichnis
 DROPBOX=~/Dropbox
@@ -183,7 +184,10 @@ Click <a href="#links">here</a> for related links.<br>
 Click <a href="#history">here</a> for brief history of the Hello World Collection.<br>
 Support the <a href="https://edu.kde.org">KDE Education Project</a> with our exclusive <a href="https://www.freewear.org/?org=HelloWorld">Hello World merchandise</a> &mdash; T-shirts, mugs and more!</p>
 <p>Last update: `LANG=En_US date "+%b %d, %Y"`.</p>
-<div style="text-align:center">`cat fixed/sharingbuttons.htm`</div>
+<div style="text-align:center">
+	`cat fixed/sharingbuttons.htm`
+	<a href="https://flattr.com/submit/auto?fid=2kl0j7&url=http%3A%2F%2Fhelloworldcollection.de" target="_blank"><img src="https://button.flattr.com/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0"></a>
+	</div>
 <hr>
 <a name="index"></a>
 <h2>Index</h2>
