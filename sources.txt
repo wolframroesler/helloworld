@@ -12,6 +12,8 @@ http://peterdn.com/post/e28098Hello-World!e28099-in-ARM-assembly.aspx
 ARM assembly
 https://github.com/BYVoid/Batsh
 Batsh
+http://people.csail.mit.edu/bradley/cm5docs/CStarProgrammingGuide.pdf
+C*
 http://ceylon-lang.org/documentation/tour/basics/
 Ceylon
 http://chaiscript.com/examples.html#ChaiScript_Basic_Example
