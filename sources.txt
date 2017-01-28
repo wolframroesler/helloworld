@@ -20,6 +20,8 @@ http://chaiscript.com/examples.html#ChaiScript_Basic_Example
 ChaiScript
 http://coconut-lang.org
 Coconut
+https://gist.github.com/simonewebdesign/3905083
+CoffeeScript
 https://en.wikipedia.org/wiki/Ezhil_(programming_language)
 Ezhil
 http://play.witheve.com
