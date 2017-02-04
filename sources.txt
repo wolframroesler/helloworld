@@ -22,6 +22,8 @@ http://coconut-lang.org
 Coconut
 https://gist.github.com/simonewebdesign/3905083
 CoffeeScript
+http://rise4fun.com/dafny/Hello
+Dafny
 https://en.wikipedia.org/wiki/Ezhil_(programming_language)
 Ezhil
 http://play.witheve.com
