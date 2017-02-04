@@ -32,6 +32,8 @@ https://en.wikipedia.org/wiki/Hack_(programming_language)
 Hack
 http://havelang.org
 Have
+https://github.com/bouzuya/hubot-hello-world
+Hubot
 https://github.com/somebee/hello-world-imba
 Imba
 http://kittenlang.org/tutorial/
