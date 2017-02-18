@@ -26,19 +26,20 @@
 # 12.08.16: Sharing-Buttons erzeugt mit http://sharingbuttons.io statt Shariff
 # 20.08.16: Versionsverwaltung mit git eingeführt
 # 06.01.17: Angepasst an Hosting auf GitHub
-# 22.07.17: Flattr-Link eingefügt
+# 22.01.17: Flattr-Link eingefügt
+# 18.02.17: Nextcloud statt Dropbox
 
 # Quellverzeichnis
-DROPBOX=~/Dropbox
-cd $DROPBOX/Privat/Wolfram/Homepage/helloworld/src || exit
+BASE=~/Nextcloud/Homepage/helloworld
+cd $BASE/src || exit
 
 # Ausgabeverzeichnis. Dabei handelt es sich um das Verzeichnis mit dem geklonten
 # Github-Repository. Bespiel:
 #
-#	$ cd ~/Dropbox/Privat/Wolfram/Homepage/helloworld
+#	$ cd ~/Nextcould/Homepage/helloworld
 #	$ rm -fr dst
 #	$ git clone https://github.com/username/username.github.io dst
-OUTDIR=$DROPBOX/Privat/Wolfram/Homepage/helloworld/dst
+OUTDIR=$BASE/dst
 
 # Dateien
 OUT=$OUTDIR/index.htm
@@ -102,7 +103,7 @@ cat >$OUT <<!
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="description" content="The largest collection of Hello World programs on the Internet.">
-<meta name="author" content="Wolfram Rösler">
+<meta name="author" content="Wolfram Roesler">
 <meta name="date" content="`date +'%Y-%m-%dT%H:%M:%S%z'`">
 <title>The Hello World Collection</title>
 <link rel="canonical" href="http://helloworldcollection.de">
@@ -268,7 +269,7 @@ cat history.htm >>$OUT
 # HTML-Datei abschließen
 cat >>$OUT <<!
 <p style="text-align: right;">
-<a href="http://validator.w3.org/check?uri=https://dl.dropboxusercontent.com/u/35009598/helloworld/index.htm"><img
+<a href="http://validator.w3.org/check?uri=http://helloworldcollection.de/index.htm"><img
 src="http://www.w3.org/Icons/valid-html401" alt="Valid HTML 4.01 Transitional" height="31" width="88"></a>
 </p>
 </div>
@@ -297,12 +298,6 @@ read
   # Änderungen anzeigen: :!git diff --cached
   cd $OUTDIR && git add --all && git commit && git push
 )
-
-# Online stellen auf Dropbox
-ONLINE=$DROPBOX/Public/helloworld
-rm -fr $ONLINE.prev
-mv $ONLINE $ONLINE.prev
-cp -pr $OUTDIR $ONLINE
 
 # Ergebnis anzeigen
 open http://helloworldcollection.de
