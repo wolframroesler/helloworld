@@ -111,7 +111,7 @@ cat >$OUT <<!
 <style type="text/css">
   body { font-family: Verdana,sans-serif; text-align: justify; background-color: #FFFDF9; }
   pre {
-    font-family: 'Lucida Console',Menlo,monospaced;
+    font-family: 'Lucida Console', 'Lucida Sans Typewriter', Menlo, "Courier New", monospace;
     font-size: small;
     overflow-x: scroll;
   }
