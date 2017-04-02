@@ -48,6 +48,8 @@ https://en.wikipedia.org/wiki/Linotte
 Linotte
 https://en.wikipedia.org/wiki/LLVM#LLVM_Intermediate_Representation
 LLVM
+http://absurdlangscollection.comuf.com/milambda.php
+μλ
 https://nitlanguage.org
 Nit
 http://progopedia.com/example/hello-world/491/
