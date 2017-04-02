@@ -32,7 +32,7 @@ Jens Schaefers: Beta
 Wolfgang Houben: PDP-11 Assembler
 Pascal Costanza: Oberon (Oberon OS)
 Martin Oefelein: Sather, GynkoSoft
-Ralf Unland: TI-59
+Ralf Unland, Claudio Larini: TI-59
 Dan Sanders: English translation of TI-59 program
 Stefan Rupp: Java
 Werner Huber: Informix 4GL
