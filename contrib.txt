@@ -427,3 +427,5 @@ Rolf Huisman: SPARC Assembly Language
 Dave Kilroy: LiveCode
 Leon (Yinliang) Wu: SAS
 Marco Pontello: Z80 Assembly for CP/M
+Akash Issar: Stata
+Kate Go: MCSBL
