@@ -1,8 +1,0 @@
-cat README
-
-for i in *;do
-  if [ $i = README -o $i = Polyglott -o $i = showall -o $i = Natural ];then
-    continue
-  fi
-  echo "------------------------------------------------------------" | cat - $i
-done
