@@ -8,5 +8,5 @@ The Collection is created with `build.sh`. The script is not universal, you'll h
 
 http://youtu.be/bGGkcCZNHj0 shows how the Collection is built (or rather, how it was built before hosting on Github).
 
--
+---
 *Wolfram Rösler • wolfram@roesler-ac.de • https://twitter.com/wolframroesler • https://github.com/wolframroesler*
