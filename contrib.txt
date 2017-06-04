@@ -67,7 +67,6 @@ Mariano Corsunsky: Spanish
 Larisa Tkachenko, Leandro: PL/SQL
 Thomas Fromm: Java Server Pages
 Josha Munnik: Shakespeare, Java-Mobile
-Thierry Loiseau: JavaScript
 Fredrik Sandebert: REALbasic, Swedish
 NYYRIKKI: Z80 Assembler for consoles
 Simen Schweder: Norwegian
@@ -430,3 +429,4 @@ Marco Pontello: Z80 Assembly for CP/M
 Akash Issar: Stata
 Kate Go: MCSBL
 Aleksey Rakov: ELENA
+Andreas Bjørn Hassing Nielsen: JavaScript
