@@ -29,17 +29,13 @@
 # 22.01.17: Flattr-Link eingefügt
 # 18.02.17: Nextcloud statt Dropbox
 
-# Quellverzeichnis
-BASE=~/Nextcloud/Homepage/helloworld
-cd $BASE/src || exit
-
 # Ausgabeverzeichnis. Dabei handelt es sich um das Verzeichnis mit dem geklonten
 # Github-Repository. Bespiel:
 #
 #	$ cd ~/Nextcould/Homepage/helloworld
 #	$ rm -fr dst
 #	$ git clone https://github.com/username/username.github.io dst
-OUTDIR=$BASE/dst
+OUTDIR=~/Nextcloud/Homepage/helloworld/dst
 
 # Dateien
 OUT=$OUTDIR/index.htm
