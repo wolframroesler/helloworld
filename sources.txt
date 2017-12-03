@@ -30,6 +30,8 @@ https://en.wikipedia.org/wiki/Ezhil_(programming_language)
 Ezhil
 http://play.witheve.com
 Eve
+https://github.com/Property404/fetlang/blob/master/docs/tutorial.md
+Fetlang
 https://en.wikipedia.org/wiki/Hack_(programming_language)
 Hack
 http://havelang.org
