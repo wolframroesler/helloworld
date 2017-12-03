@@ -24,6 +24,8 @@ https://gist.github.com/simonewebdesign/3905083
 CoffeeScript
 http://rise4fun.com/dafny/Hello
 Dafny
+https://gist.github.com/wblondel/ed55f9a6f2f738634f74
+Emojicode
 https://en.wikipedia.org/wiki/Ezhil_(programming_language)
 Ezhil
 http://play.witheve.com
