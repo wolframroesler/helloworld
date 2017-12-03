@@ -38,6 +38,8 @@ https://github.com/bouzuya/hubot-hello-world
 Hubot
 https://github.com/somebee/hello-world-imba
 Imba
+https://gist.github.com/bmintz/6d92150a83af7069fa91
+JSFuck
 http://kittenlang.org/tutorial/
 Kitten
 https://en.wikipedia.org/wiki/Kotlin_(programming_language)
