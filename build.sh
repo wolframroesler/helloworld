@@ -28,6 +28,7 @@
 # 06.01.17: Angepasst an Hosting auf GitHub
 # 22.01.17: Flattr-Link eingefügt
 # 18.02.17: Nextcloud statt Dropbox
+# 03.12.17: Ko-fi-Link eingefügt
 
 # Ausgabeverzeichnis. Dabei handelt es sich um das Verzeichnis mit dem geklonten
 # Github-Repository. Bespiel:
@@ -184,6 +185,7 @@ Support the <a href="https://edu.kde.org">KDE Education Project</a> with our exc
 <div style="text-align:center">
 	`cat fixed/sharingbuttons.htm`
 	<a href="https://flattr.com/submit/auto?fid=2kl0j7&url=http%3A%2F%2Fhelloworldcollection.de" target="_blank"><img src="https://button.flattr.com/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0"></a>
+	<a href='https://ko-fi.com/T6T163OI' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi2.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 	</div>
 <hr>
 <a name="index"></a>
