@@ -18,7 +18,7 @@ Georg Bauer: Rexx (simple version), Erlang, SML, Snobol, Setl2, CAML light
 Michael Glaesner: Perl, awk
 Peter Gummer: Eiffel
 Markus Omers: Presentation Manager
-Thomas Dorner: SPL
+Thomas Dorner: SPL4
 Jochen Kunz: Rexx (window version), HP-48
 Sascha Bendinger: Dylan
 Steffen Pohlen: Visual Basic, Gofer (dialog)
@@ -436,3 +436,4 @@ Jesús Cuerda: Genie
 LegionMammal978: Lojban
 Ahmed Abdalla: Noor
 Joel Bryan Juliano: Bato
+Chris Huryn: Splunk SPL
