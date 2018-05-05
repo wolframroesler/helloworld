@@ -438,3 +438,5 @@ Ahmed Abdalla: Noor
 Joel Bryan Juliano: Bato
 Chris Huryn: Splunk SPL
 Lutz Haselof: ConTeXt
+Peter Bauer: 4D
+Robert Weißenfels: BitZ
