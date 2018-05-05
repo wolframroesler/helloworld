@@ -32,6 +32,8 @@ http://play.witheve.com
 Eve
 https://github.com/Property404/fetlang/blob/master/docs/tutorial.md
 Fetlang
+http://gosu-lang.github.io/docs.html
+Gosu
 https://en.wikipedia.org/wiki/Hack_(programming_language)
 Hack
 http://havelang.org
