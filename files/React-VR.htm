@@ -1,0 +1,15 @@
+<pre>// Hello world in <a href="https://facebook.github.io/react-vr/">React-VR</a>
+
+import React from 'react';
+import { AppRegistry, asset, Text, View,} from 'react-vr';
+ 
+export default class HelloWorld extends React.Component {
+  render() { return (
+      &lt;View&gt;
+        &lt;Text
+          style={{transform: [{translate: [0, 0, -3]}],}}&gt;
+          Hello World
+        &lt;/Text&gt;
+      &lt;/View&gt;
+    );   } };
+AppRegistry.registerComponent('HelloWorld', () =&gt; HelloWorld);</pre>
