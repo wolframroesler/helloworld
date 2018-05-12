@@ -441,3 +441,4 @@ Lutz Haselof: ConTeXt
 Peter Bauer: 4D
 Robert Weißenfels: BitZ
 John D. Gwinner: React-VR
+Fiosaiche: Scots Gaelic
