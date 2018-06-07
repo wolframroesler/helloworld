@@ -1,6 +1,0 @@
-Hello World in Rebol-view.
-
-rebol[]
-view layout[
-text "Hello World!"
-]

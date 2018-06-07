@@ -1,3 +1,0 @@
-'hello world in Liberty BASIC
-PRINT "Hello World"
-END

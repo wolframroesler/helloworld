@@ -1,2 +1,0 @@
-'Hello World in LIMS Basic
-msgbox("hello world")

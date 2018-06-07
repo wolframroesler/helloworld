@@ -1,6 +1,0 @@
-// Hello World in Clean
-
-module hello
-
-Start :: String
-Start = "Hello World!\n"

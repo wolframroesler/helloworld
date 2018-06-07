@@ -1,3 +1,0 @@
-#!/usr/bin/dc
-# Hello world! in dc (Unix desk calculator)
-[Hello world!]p

@@ -1,3 +1,0 @@
-# hello.world.in.ratfor
-print *, 'hello, world'
-end

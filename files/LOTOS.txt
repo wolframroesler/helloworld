@@ -1,6 +1,0 @@
-(* Hello World in LOTOS (Language Of Temporal Ordering Specifications) *)
- 
-process HelloWorld [v]: exit :=
-  v! "Hello World!";
-  exit
-endproc

@@ -1,5 +1,0 @@
-#!/usr/local/bin/wish -f
-# Hello World in Tk
-
-label .l -text "Hello World!"
-pack .l

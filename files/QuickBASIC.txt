@@ -1,3 +1,0 @@
-REM Hello World in QuickBASIC
-PRINT "Hello World!"
-END

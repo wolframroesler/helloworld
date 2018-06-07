@@ -1,2 +1,0 @@
- * Hello World in Natural (by Software AG)
-Write "Hello, World!".

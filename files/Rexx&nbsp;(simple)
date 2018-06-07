@@ -1,4 +1,0 @@
-/* Hello World in Rexx, simple version (writes to standard output) */
-
-say 'Hello World!'
-exit

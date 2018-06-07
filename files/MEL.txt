@@ -1,7 +1,0 @@
-// Hello World in MEL scripting language for Alias Maya
-
-proc helloWorld () {
-   print "Hello World!\n";
-}
-
-helloWorld;

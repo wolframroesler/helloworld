@@ -1,2 +1,0 @@
-# Hello World for S-Plus
-cat("Hello world\n")

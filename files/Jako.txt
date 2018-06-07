@@ -1,5 +1,0 @@
-# Hello World in Jako
-
-use sys;
-
-sys::print("Hello, world!\n");

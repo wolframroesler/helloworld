@@ -1,1 +1,0 @@
-#Hello World in Mikrotik RouterOS Scripting Host; :put ("Hello, World!");

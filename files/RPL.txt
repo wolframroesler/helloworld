@@ -1,7 +1,0 @@
-Hello World in RPL for the HP-28, HP-48, HP-49 and HP-50 series pocket calculators. No comments possible.
-
-<<
-    "HELLO WORLD"
-    1 DISP
-    60 FREEZE
->>

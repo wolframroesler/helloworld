@@ -1,7 +1,0 @@
-# Hello World in Informix 4GL
-
-MAIN
-
-  DISPLAY "Hello World"
-
-END MAIN

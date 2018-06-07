@@ -1,3 +1,0 @@
-;Hello World for mIRC (alias section)
-
-helloworld: /echo -a Hello World!

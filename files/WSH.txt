@@ -1,2 +1,0 @@
-// Hello World for the Windows Scripting Host
-WScript.Echo("Hello World!");

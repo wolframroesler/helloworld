@@ -1,8 +1,0 @@
-Hello World for Microsoft ASP (in VBScript)
-
-<%@ language="vbscript" %>
-<html><body>
-<%
-Response.write "Hello World!"
-%>
-</body></html>

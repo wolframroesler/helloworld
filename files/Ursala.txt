@@ -1,5 +1,0 @@
-# hello world in Ursala
-
-#executable&
-
-f = -[hello world]-!

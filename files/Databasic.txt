@@ -1,4 +1,0 @@
-PROGRAM HELLO.B
-# Hello World in Databasic
-CRT "HELLOW WORLD"
-END

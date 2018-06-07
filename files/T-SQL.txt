@@ -1,2 +1,0 @@
--- Hello World in T-SQL
-PRINT 'Hello World'

@@ -1,8 +1,0 @@
-% Hello World in Postscript
-%!PS
-/Palatino-Roman findfont
-100 scalefont
-setfont
-100 100 moveto
-(Hello World!) show
-showpage

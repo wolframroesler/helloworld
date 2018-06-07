@@ -1,3 +1,0 @@
-$ ! Hello World in Digital Command Language for the VMS operating system
-
-$ WRITE SYS$OUTPUT "Hello World!"

@@ -1,7 +1,0 @@
-Hello World for IBM EXEC (under VM/CMS)
-
-&CONTROL
-*
-&TYPE Hello World!
-*
-&EXIT 0

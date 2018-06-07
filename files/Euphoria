@@ -1,3 +1,0 @@
--- Hello World in Euphoria
-
-puts(1, "Hello World!\n")

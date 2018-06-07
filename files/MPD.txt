@@ -1,5 +1,0 @@
-# Hello World in MPD.
-
-resource helloworld()
-  write("Hello World")
-end

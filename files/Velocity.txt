@@ -1,7 +1,0 @@
-<HTML>
-<!-- Hello World in Velocity -->
-<BODY>
-  #set( $foo = "Hello World" )
-  $foo
-</BODY>
-</HTML>

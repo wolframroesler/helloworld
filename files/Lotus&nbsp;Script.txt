@@ -1,4 +1,0 @@
-' Hello World in Lotus Script
-Sub Initialize
-        Msgbox "Hello world", 0, "Hi there!"
-End Sub

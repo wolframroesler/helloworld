@@ -1,3 +1,0 @@
-' Hello World in Alpha Five Xbasic
-
-ui_msg_box("The 'Hello World' Collection", "Hello World", UI_ATTENTION_SYMBOL)

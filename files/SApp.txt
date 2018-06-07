@@ -1,2 +1,0 @@
-comment: Hello World in SApp
-popup "Hello ## World!" ,

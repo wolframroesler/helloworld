@@ -1,5 +1,0 @@
-How to enter Hello World on a standard T9 numeric
-keypad of an SMS-enabled mobile phone.
-T9 predictive text has to be off.
-
-44 33 555 555 666 0 9 666 777 555 3 11111

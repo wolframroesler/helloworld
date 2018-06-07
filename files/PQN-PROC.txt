@@ -1,3 +1,0 @@
-PQN
-C Hello World in PQN/PROC
-O Hello World

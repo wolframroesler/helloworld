@@ -1,3 +1,0 @@
--- Hello World in SQL for Advantage Database
- 
-select 'Hello World' from system.iota

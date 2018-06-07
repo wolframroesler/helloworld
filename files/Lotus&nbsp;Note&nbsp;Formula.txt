@@ -1,2 +1,0 @@
-REM "Lotus Note Formula Language";
-@Prompt([ok];"Hi there";"Hello World");

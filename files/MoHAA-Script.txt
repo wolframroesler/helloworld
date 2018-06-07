@@ -1,3 +1,0 @@
-// Hello World in the Medal of Honor Allied Assault scripting language
-
-iprintln "Hello World!"

@@ -1,6 +1,0 @@
-<window width="320" height="160">
-<!-- Hello World in RealText  -->
-	<font size="12" name="Arial">
-	<center>Hello World!</center>
-	</font>
-</window>

@@ -1,3 +1,0 @@
-10 REM Hello World in Extended BASIC
-20 REM for the TI99 series computer
-100 CALL CLEAR :: DISPLAY AT(10,5):"Hello World" :: ACCEPT AT(20,4):A$
